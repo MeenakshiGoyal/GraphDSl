@@ -1,0 +1,31 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/knoldus/Graph DSL/target/scala-2.12/graph-dsl_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Graph DSL/target/scala-2.12/classes/org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/knoldus[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Graph DSL/target/scala-2.12/classes/org/knoldus[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/knoldus/openGraphs[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Graph DSL/target/scala-2.12/classes/org/knoldus/openGraphs[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/knoldus/openGraphs/OpenGraphs$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Graph DSL/target/scala-2.12/classes/org/knoldus/openGraphs/OpenGraphs$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/knoldus/openGraphs/OpenGraphs$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Graph DSL/target/scala-2.12/classes/org/knoldus/openGraphs/OpenGraphs$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/knoldus/openGraphs/OpenGraphs.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Graph DSL/target/scala-2.12/classes/org/knoldus/openGraphs/OpenGraphs.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/knoldus/faninshape[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Graph DSL/target/scala-2.12/classes/org/knoldus/faninshape[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/knoldus/faninshape/UniformFanInGraph$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Graph DSL/target/scala-2.12/classes/org/knoldus/faninshape/UniformFanInGraph$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/knoldus/faninshape/UniformFanInGraph.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Graph DSL/target/scala-2.12/classes/org/knoldus/faninshape/UniformFanInGraph.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/knoldus/faninshape/UniformFanInGraph$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Graph DSL/target/scala-2.12/classes/org/knoldus/faninshape/UniformFanInGraph$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/knoldus/basics[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Graph DSL/target/scala-2.12/classes/org/knoldus/basics[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/knoldus/basics/GraphBasics.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Graph DSL/target/scala-2.12/classes/org/knoldus/basics/GraphBasics.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/knoldus/basics/GraphBasics$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Graph DSL/target/scala-2.12/classes/org/knoldus/basics/GraphBasics$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/knoldus/basics/GraphBasics$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Graph DSL/target/scala-2.12/classes/org/knoldus/basics/GraphBasics$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
